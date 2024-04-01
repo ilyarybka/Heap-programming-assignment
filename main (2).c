@@ -1,5 +1,3 @@
-/* COP 3502C Assignment 6
-This program is written by: Iliya Klishin */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
